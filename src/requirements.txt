@@ -1,0 +1,14 @@
+psycopg[binary]
+python-dotenv
+ruff
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+ollama
+sentence-transformers
+torch
+pypdf
+Pillow
+pytesseract
+langchain-core
+langchain-community
